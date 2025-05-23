@@ -1,0 +1,11 @@
+.table th, .table td {
+  vertical-align: middle;
+}
+
+.table th:hover {
+  background-color: #f1f1f1;
+}
+
+.btn-sm {
+  padding: 4px 8px;
+}
