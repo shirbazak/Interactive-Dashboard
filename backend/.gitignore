@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+.env
+.DS_Store
+npm-debug.log
+functions/lib
+firebase-debug.log
+firebase-error.log
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
